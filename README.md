@@ -19,7 +19,7 @@
 Пример №4: java -jar util.jar -s -o /some/files -p sample- in1.txt in2.txt
 Создание каталогов
 
-![image](https://github.com/user-attachments/assets/93b2208d-df61-4339-8204-e4a04fb73e2b)
+![image](https://github.com/user-attachments/assets/678575db-e66b-48c1-a4a1-35d191f743e9)
 
 
 Поставленные задачи:
