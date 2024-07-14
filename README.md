@@ -7,10 +7,12 @@
 ![image](https://github.com/user-attachments/assets/db745d06-f512-4901-9be4-2e58582670d7)
 
 Пример #2: java -jar util.jar -s -p sample- in1.txt in2.txt
+Выполнение с краткой статистикой
 
 ![image](https://github.com/user-attachments/assets/5c644ae4-0eba-423f-b218-8b6e3737f5e6)
 
 Пример #3: java -jar util.jar -f -p sample- in1.txt in2.txt
+Выполнение с полной статистикой
 
 ![image](https://github.com/user-attachments/assets/ab2364af-6d11-4ee5-91ee-0c0e00fd859b)
 
