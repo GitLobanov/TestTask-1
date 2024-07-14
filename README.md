@@ -1,6 +1,22 @@
 Решение тестового задания для ЦВТ java курса.
 Запуск производится через jar файл с использованием командной строки. Рядом с jar файлом заведамо должны быть созданые файлы для считывания.
-Пример: java -jar util.jar -s -a -p sample- in1.txt in2.txt
+Пример #1: java -jar util.jar -s -a -p sample- in1.txt in2.txt
+
+![image](https://github.com/user-attachments/assets/db745d06-f512-4901-9be4-2e58582670d7)
+
+Пример #2: java -jar util.jar -s -p sample- in1.txt in2.txt
+
+![image](https://github.com/user-attachments/assets/5c644ae4-0eba-423f-b218-8b6e3737f5e6)
+
+Пример #3: java -jar util.jar -f -p sample- in1.txt in2.txt
+
+![image](https://github.com/user-attachments/assets/ab2364af-6d11-4ee5-91ee-0c0e00fd859b)
+
+Пример №4: java -jar util.jar -s -o /some/files -p sample- in1.txt in2.txt
+Создание каталогов
+
+![image](https://github.com/user-attachments/assets/93b2208d-df61-4339-8204-e4a04fb73e2b)
+
 
 Поставленные задачи:
 
